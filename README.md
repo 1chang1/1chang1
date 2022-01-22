@@ -1,13 +1,21 @@
-# 🚀 1chang1: Do whatever I want
+# Do whatever I want
 > ![Since](https://img.shields.io/badge/developed%20since-2008-2F3437.svg?style=for-the-badge&logo=time)&nbsp;&nbsp;
 > ![GitHub followers](https://img.shields.io/github/followers/1chang1?label=github%20followers&color=2F3437&style=for-the-badge&logo=github)
 
 <br/>
 <br/>
 
+## 🚀 I'm currently working at
+- [P2ACH AI](https://p2ach.ai): Software Engineer
+  - FrontEnd: AD Network admin service
+  - Android: OOH Ad SettopBox Device Application
+- [TEAM LUCKLY](https://luckly.io)
+  - FrontEnd: Service landing page
+  - BackEnd: VDF Lambda, Blockchain Subscribing Server
 
+<br/>
+<br/>
 
----
 ## 💪 Skills
 
 ```
@@ -28,28 +36,28 @@
 ![Python](https://img.shields.io/badge/Python-⭐⭐-2F3437?style=for-the-badge&logo=Python)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-⭐⭐-2F3437.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=html5)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/css3-⭐⭐-2F3437.svg?style=for-the-badge&logo=css3)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/css3-⭐⭐-2F3437.svg?style=for-the-badge&logo=css3)
 
 ### Mobile
 ![Android](https://img.shields.io/badge/android-⭐⭐⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=android)&nbsp;&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-⭐⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=firebase)&nbsp;&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-⭐⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=firebase)
 
 ### FrontEnd
 ![React](https://img.shields.io/badge/react-⭐⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=react)&nbsp;&nbsp;
 ![Next.js](https://img.shields.io/badge/next.js-⭐⭐-2F3437.svg?style=for-the-badge&logo=next.js)&nbsp;&nbsp;
 ![Angular](https://img.shields.io/badge/angular-⭐-2F3437.svg?style=for-the-badge&logo=angular)&nbsp;&nbsp;
-![Styled Components](https://img.shields.io/badge/styled%20components-⭐⭐-2F3437.svg?style=for-the-badge&logo=styledcomponents)&nbsp;&nbsp;
+![Styled Components](https://img.shields.io/badge/styled%20components-⭐⭐-2F3437.svg?style=for-the-badge&logo=styledcomponents)
 
 ### BackEnd
 ![NodeJS](https://img.shields.io/badge/node.js-⭐⭐⭐-2F3437?style=for-the-badge&logo=node.js)&nbsp;&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=express)&nbsp;&nbsp;
-![Passport.js](https://img.shields.io/badge/passport.js-⭐⭐-2F3437.svg?style=for-the-badge&logo=passport)&nbsp;&nbsp;
+![Passport.js](https://img.shields.io/badge/passport.js-⭐⭐-2F3437.svg?style=for-the-badge&logo=passport)
 
 ### DevOps
 ![AWS](https://img.shields.io/badge/aws-⭐⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=amazonaws)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/docker-⭐⭐-2F3437.svg?style=for-the-badge&logo=docker)&nbsp;&nbsp;
 ![CICD](https://img.shields.io/badge/cicd-⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=github)&nbsp;&nbsp;
-![GCP](https://img.shields.io/badge/gcp-⭐⭐-2F3437.svg?style=for-the-badge&logo=googlecloud)&nbsp;&nbsp;
+![GCP](https://img.shields.io/badge/gcp-⭐⭐-2F3437.svg?style=for-the-badge&logo=googlecloud)
 
 ### Machine Learning
 ![Google Colab](https://img.shields.io/badge/google%20colab-⭐⭐-2F3437.svg?style=for-the-badge&logo=googlecolab)&nbsp;&nbsp;
@@ -57,12 +65,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-⭐-2F3437.svg?style=for-the-badge&logo=TensorFlow)&nbsp;&nbsp;
 ![Kaggle](https://img.shields.io/badge/kaggle-⭐-2F3437.svg?style=for-the-badge&logo=kaggle)&nbsp;&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-⭐-2F3437.svg?style=for-the-badge&logo=numpy)&nbsp;&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-⭐-2F3437.svg?style=for-the-badge&logo=pandas)&nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-⭐-2F3437.svg?style=for-the-badge&logo=pandas)
 
 ### Blockchain
 ![Solidity](https://img.shields.io/badge/solidity-⭐-2F3437.svg?style=for-the-badge&logo=solidity)&nbsp;&nbsp;
 ![Klaytn(Short URL)](http://is.am/4tuz)&nbsp;&nbsp;
-![Hyperledger](https://img.shields.io/badge/hyperledger-⭐-2F3437.svg?style=for-the-badge&logo=hyperledger)&nbsp;&nbsp;
+![Hyperledger](https://img.shields.io/badge/hyperledger-⭐-2F3437.svg?style=for-the-badge&logo=hyperledger)
 
 ### Design
 ![Material Design](https://img.shields.io/badge/material%20design-⭐⭐⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=materialdesign&logoColor=white)&nbsp;&nbsp;
@@ -73,26 +81,26 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=adobepremierepro)&nbsp;&nbsp;
 ![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-⭐⭐-2F3437.svg?style=for-the-badge&logo=adobeaftereffects)&nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/figma-⭐-2F3437.svg?style=for-the-badge&logo=figma)&nbsp;&nbsp;
-![Zeplin](https://img.shields.io/badge/zeplin-⭐-2F3437.svg?style=for-the-badge&logo=zeplin)&nbsp;&nbsp;
+![Zeplin](https://img.shields.io/badge/zeplin-⭐-2F3437.svg?style=for-the-badge&logo=zeplin)
 
 ### Product Management
 ![Google Ads](https://img.shields.io/badge/google%20ads-⭐⭐-2F3437.svg?style=for-the-badge&logo=googleads)&nbsp;&nbsp;
 ![Google Analytics](https://img.shields.io/badge/google%20analytics-⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=googleanalytics)&nbsp;&nbsp;
 ![Google Search Console](https://img.shields.io/badge/google%20search%20console-⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=googlesearchconsole)&nbsp;&nbsp;
-![Naver Search Advisor](https://img.shields.io/badge/naver%20search%20advisor-⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=naver)&nbsp;&nbsp;
+![Naver Search Advisor](https://img.shields.io/badge/naver%20search%20advisor-⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=naver)
 
 ### Communication
 ![Notion](https://img.shields.io/badge/notion-⭐⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=notion)&nbsp;&nbsp;
 ![Slack](https://img.shields.io/badge/slack-⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=slack)&nbsp;&nbsp;
 ![Google Drive](https://img.shields.io/badge/google%20drive-⭐⭐⭐⭐-2F3437.svg?style=for-the-badge&logo=googledrive)&nbsp;&nbsp;
-![Jira](https://img.shields.io/badge/jira-⭐⭐-2F3437.svg?style=for-the-badge&logo=jira)&nbsp;&nbsp;
+![Jira](https://img.shields.io/badge/jira-⭐⭐-2F3437.svg?style=for-the-badge&logo=jira)
 
 ### Hardware
 ![Arduino](https://img.shields.io/badge/arduino-⭐-2F3437.svg?style=for-the-badge&logo=arduino)&nbsp;&nbsp;
-![Raspberry Pie](https://img.shields.io/badge/raspberry%20pi-⭐-2F3437.svg?style=for-the-badge&logo=raspberrypi)&nbsp;&nbsp;
+![Raspberry Pie](https://img.shields.io/badge/raspberry%20pi-⭐-2F3437.svg?style=for-the-badge&logo=raspberrypi)
 
 ### Game
-![Unreal Engine](https://img.shields.io/badge/unreal%20engine-⭐-2F3437.svg?style=for-the-badge&logo=unrealengine)&nbsp;&nbsp;
+![Unreal Engine](https://img.shields.io/badge/unreal%20engine-⭐-2F3437.svg?style=for-the-badge&logo=unrealengine)
 
 
 ---
