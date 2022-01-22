@@ -6,12 +6,26 @@
 <br/>
 
 ## 🚀 I'm currently working at
-- [P2ACH AI](https://p2ach.ai): Software Engineer
+- [P2ACH AI](https://p2ach.ai)
+  - Software Engineer / 2021.12 ~
   - FrontEnd: AD Network admin service
   - Android: OOH Ad SettopBox Device Application
 - [TEAM LUCKLY](https://luckly.io)
+  - Software Engineer / 2021.12 ~
   - FrontEnd: Service landing page
   - BackEnd: VDF Lambda, Blockchain Subscribing Server
+
+<br/>
+<br/>
+
+## 😃 I worked at
+- TEAM RARE([SWMaestro](https://swmaestro.org) 12th Training Course)
+  - Team Leader / 2021.4 ~ 2021.11
+  - Product, Design, FE, BE, ML(NLP/Stemming)
+- 15th Special Missions Wing
+  - Staff Sergeant / 2019.7 ~ 2021.4
+  - Military Duty at the Republic of Korea Air Force
+  - Administered the military intranet and server and delivered military security works for the 15th Special Missions Wing, Information & Communication Squadron
 
 <br/>
 <br/>
